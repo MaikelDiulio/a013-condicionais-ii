@@ -12,3 +12,6 @@ Onde :
 `condição` é uma expressão que é avaliada como `true` ou `false`.
 
 `expr1`, `expr2` são xpressões com valores de qualquer tipo.
+
+
+condição ? expr1 : expr2
